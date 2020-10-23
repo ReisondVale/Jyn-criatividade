@@ -1,0 +1,95 @@
+body {
+    background-color: #bf948f;
+}
+/*navbar*/
+.img-navbar {
+    margin-left: 10px;
+    width: 120px;
+    height: 70px;
+}
+
+.bg-dark {
+    background: #733a34!important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #f3bdb7;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #f47b6e;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #f3bdb7;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f3bdb7;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #f47b6e;
+}
+
+/*Dropdown Nav*/
+.btn-secondary {
+    background-color: #733a34;
+    color: #f3bdb7;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #733a34;
+    color: #f47b6e;
+    border: none;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus {
+    background-color: #733a34;
+    color: #f47b6e;
+    border-color: #733a34;
+    box-shadow: none;
+}
+
+
+/*Imagem de capa*/
+.img-capa {
+    height: 50vh;
+    min-height: 500px;
+    color: #f47b6e;
+    text-shadow: 2px 2px 4px #000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*BG section e botāo*/
+.bg-section {
+    background-color: #734F4B;
+}
+
+.btn-outline-dark {
+    color: #f3bdb7;
+    border-color: #f3bdb7;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+.btn-outline-dark:hover {
+    color: #f47b6e;
+    border-color: #f47b6e;
+    background-color: #734F4B;
+}
+
+/*Icones rede social*/
+.fa-lg {
+    font-size: 2.5em;
+    line-height: 1.5em;
+    vertical-align: -.0667em;
+    color: #f3bdb7;
+}
+
+.fa-lg:hover {
+    color: #f47b6e;
+}

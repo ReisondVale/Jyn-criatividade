@@ -1,0 +1,32 @@
+/* Páginas de links */
+body {
+    background-color: #733a34;
+}
+
+.img-logo {
+    text-align: center;
+}
+
+.img-page-links {
+    width: 350px;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.buttons-links {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.btn-primary {
+    color: #733a34;
+    background-color: #f3bdb7;
+    border-color: #733a34;
+}
+
+.btn-primary:hover {
+    color: #733a34;
+    border-color: #733a34;
+    background-color: #f47b6e;
+}
